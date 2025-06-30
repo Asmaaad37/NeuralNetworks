@@ -1,1 +1,1 @@
-Deep Fake Using Neural Networks
+Deep Fake Detection Using Neural Networks
